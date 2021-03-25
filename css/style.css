@@ -2,11 +2,11 @@
 
 html, body {
   height: 100%;
-  min-height: 100%;
+  min-height: 50%;
 }
 
 body {
-  background: url(../images/backgrounds/architecture.jpg) center no-repeat;
+  background: linear-gradient(to bottom, #6bdfee 0%, #3358FF 100%);
   background-size: cover;
   background-attachment: fixed;
   font-family: Helvetica, Arial, sans-serif;
@@ -25,12 +25,12 @@ body {
 }
 
 h1, h2 {
-  font-family: 'Gabriela', serif;
-  color: #fff;
+  font-family: 'Tahoma', serif;
+  color: #FF5733 ;
 }
 
 h1 {
-  font-size: 3.5em;
+  font-size: 5.5em;
   margin-bottom: 0;
 }
 
